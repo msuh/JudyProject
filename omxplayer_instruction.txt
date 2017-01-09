@@ -1,0 +1,18 @@
+
+Command to type to loop the video:
+In terminal,
+type: $omxplayer -o hdmi -b --loop <videoName>
+
+For more instructions on the parameters for omxplayer,
+type: $omxplayer -h
+
+-------------------------
+To exit from the video:
+Press q
+
+To pause/continue the video:
+Press the Space Bar
+
+To start the video from start:
+Press Left/Right key
+
